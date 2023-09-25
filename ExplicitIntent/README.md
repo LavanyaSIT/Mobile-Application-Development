@@ -1,13 +1,8 @@
-# Ex.No:4 To create a two screens , first screen will take one number input from user. After click on Factorial button, second screen will open and it should display factorial of the same number using Explicit Intents.
-
-
+## Ex.No:4 To create a two screens , first screen will take one number input from user. After click on Factorial button, second screen will open and it should display factorial of the same number using Explicit Intents.
 ## AIM:
-
 To create a two screens , first screen will take one number input from user. After click on Factorial button, second screen will open and it should display factorial of the same number using Explicit Intents.
 
-
 ## EQUIPMENTS REQUIRED:
-
 Latest Version Android Studio
 
 ## ALGORITHM:
@@ -25,18 +20,16 @@ Step 6: Display message give in MainActivity file.
 
 Step 7: Save and run the application.
 
-
-
 ## PROGRAM:
-```
+~~~
 /*
 Program to print the text “ExplicitIntent”.
-Developed by:Lavanya S
-Registeration Number :212221220030
+Developed by: Lavanya S
+Registeration Number : 212221220030
 */
-```
-
+~~~
 ## Activity_xml File:
+~~~
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout    xmlns:android="http://schemas.android.com/apk/res/android"
 xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -70,7 +63,9 @@ tools:context=".MainActivity">
     app:layout_constraintTop_toTopOf="parent" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
-Activity_xml 2 File:
+~~~
+## Activity_xml 2 File:
+~~~
  <?xml version="1.0" encoding="utf-8"?>
  <androidx.constraintlayout.widget.ConstraintLayout        xmlns:android="http://schemas.android.com/apk/res/android"
 xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -90,7 +85,9 @@ tools:context=".FactorialActivity">
    app:layout_constraintStart_toStartOf="parent"
    app:layout_constraintTop_toTopOf="parent" />
 </androidx.constraintlayout.widget.ConstraintLayout>
-MainActivity.java File:
+~~~
+## MainActivity.java File:
+~~~
   package com.example.factorialexplicit;
 
   import static com.example.factorialexplicit.R.id.factorialButton;
@@ -129,7 +126,9 @@ factorialButton.setOnClickListener(new View.OnClickListener() {
 });
 }
 }
-MainActivity.java 2 File:
+~~~
+## MainActivity.java 2 File:
+~~~
 package com.example.factorialexplicit;
 
 import static com.example.factorialexplicit.R.id.factorialTextView;
@@ -166,10 +165,11 @@ private long calculateFactorial(int number) {
 return factorial;
 }
 }
+~~~
 ## OUTPUT
-image
-image
-image
-
+![image](https://github.com/mehanthyka/Explicit-Intent/assets/127507580/a00f189a-d129-4889-9df1-1f94d5444e89)
+<br>![image](https://github.com/mehanthyka/Explicit-Intent/assets/127507580/2b4685f3-d208-4c29-82e4-7835d98d3f9f)
+<br>![image](https://github.com/mehanthyka/Explicit-Intent/assets/127507580/9a9bfa18-6f14-4300-9ea1-f3b77323536e)
 ## RESULT
 Thus a Simple Android Application create a Explicit Intents using Android Studio is developed and executed successfully.
+
