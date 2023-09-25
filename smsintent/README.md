@@ -188,7 +188,7 @@ private void sendSMS(){
 }
 }
 ~~~
-## OUTPUT:
+## OUTPUT: 
 ![image](https://github.com/mehanthyka/smsintent/assets/127507580/9e0fe5a2-2ceb-4d9b-90c5-9231e2aefc81)
 ![image](https://github.com/mehanthyka/smsintent/assets/127507580/ed0c44ca-d135-4b4d-af9a-cdd534e85728)
 ![image](https://github.com/mehanthyka/smsintent/assets/127507580/0867eb4a-36e8-4ce4-8045-0aaf854187d6)
