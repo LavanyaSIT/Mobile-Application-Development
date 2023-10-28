@@ -25,7 +25,7 @@ Step 7: Save and run the application.
 /*
 Program to print the list of item.
 Developed by:Lavanya S
-Registeration Number :21221220030
+Registeration Number :212221220030
 */
 ```
 # activity_main.xml
