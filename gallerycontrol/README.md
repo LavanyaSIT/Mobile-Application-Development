@@ -99,7 +99,7 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 }
-```
+``` 
 # CustomizedGalleryAdapter.java
 ```
 package com.example.gallerycontrol;
