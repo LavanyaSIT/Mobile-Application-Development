@@ -42,7 +42,7 @@ Registeration Number :212221220012
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
     android:text="Animation"
-    android:id="@+id/textView"
+    android:id="@+id/textView" 
     android:textSize="35dp"
     android:layout_alignParentTop="true"
     android:layout_centerHorizontal="true"
