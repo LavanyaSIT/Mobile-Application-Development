@@ -28,7 +28,7 @@ Step 7: Save and run the application.
 ## PROGRAM:
 ```
 /*
-Program to create and design an android application that draws basic graphical primitives on the screen.
+Program to create and design an android application that draws basic graphical primitives on the screen. 
 Developed by:Lavanya S
 Registeration Number :212221220030
 */
